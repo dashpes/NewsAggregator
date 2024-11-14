@@ -1,4 +1,3 @@
-# main.py
 from article_fetcher import fetch_articles
 import json
 
