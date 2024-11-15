@@ -1,3 +1,3 @@
 
-API_KEY =  '9604984fac9d498fbfb34e34de8f2a50'
+API_KEY =  ''
 BASE_URL = 'https://newsapi.org/v2/'
