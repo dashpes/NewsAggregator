@@ -15,7 +15,7 @@ A Python-based News Aggregator application that fetches the latest news articles
 
 ## **Requirements**
 - Python 3.8+
-- NewsAPI account and API key (to fetch news articles).
+- NewsAPI account and API key (to fetch news articles). See more here: [NewsAPILink](https://newsapi.org/)
 - Installed Python packages (see the **Setup** section below).
 
 ---
