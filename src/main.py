@@ -3,8 +3,8 @@ import json
 
 def main():
     # Fetch articles on a specific topic
-    topic = 'trump'
-    articles = fetch_articles(topic=topic, page_size=30, last_two_weeks=True)
+    topic = 'Trump'
+    articles = fetch_articles(topic=topic, page_size=30, last_week_only=True, max_articles_per_source=2)
 
     # Display the fetched articles
     if articles:
